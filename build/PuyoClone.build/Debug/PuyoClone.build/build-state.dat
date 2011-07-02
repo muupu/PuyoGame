@@ -1,0 +1,152 @@
+TPuyoClone
+v7
+r1
+cCheck dependencies
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Default.png
+c0000000049B78FE4000000000000116B
+t1236766692
+s4459
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/COPYING
+c0000000049E7981600000000000005BA
+t1239914518
+s1466
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/README
+c0000000049E798160000000000000795
+t1239914518
+s1941
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/background.png
+c000000004A1E4BC60000000000006FA3
+t1243499462
+s28579
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/block_blue.pvr
+c000000004A0692180000000000000234
+t1241944600
+s564
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/block_green.pvr
+c000000004A06923C0000000000000234
+t1241944636
+s564
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/block_red.pvr
+c000000004A0692260000000000000234
+t1241944614
+s564
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/block_yellow.pvr
+c000000004A0692320000000000000234
+t1241944626
+s564
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Info.plist
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Resources/COPYING
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Resources/README
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Resources/background.png
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Resources/block_blue.pvr
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Resources/block_green.pvr
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Resources/block_red.pvr
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Resources/block_yellow.pvr
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Resources/fps_images.png
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Resources/gameover.png
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/fps_images.png
+c000000004A0FF4420000000000002380
+t1242559554
+s9088
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/gameover.png
+c000000004A20C0480000000000001381
+t1243660360
+s4993
+
+NInfo.plist
+c000000004A20BE0E0000000000000379
+t1243659790
+s889
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329750231#329750231#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.1'1(4@58"error: There is no SDK with the name or path 'iphoneos2.1'329750231#4294967295#0#0(1@0"0(0#1#0"4386904#0"0#
+
+CCpResource build/Debug/PuyoClone.app/Contents/Resources/COPYING Support/Tremor/COPYING
+r0
+
+CCpResource build/Debug/PuyoClone.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/PuyoClone.app/Contents/Resources/README Support/Tremor/README
+r0
+
+CCpResource build/Debug/PuyoClone.app/Contents/Resources/background.png background.png
+r0
+
+CCpResource build/Debug/PuyoClone.app/Contents/Resources/block_blue.pvr block_blue.pvr
+r0
+
+CCpResource build/Debug/PuyoClone.app/Contents/Resources/block_green.pvr block_green.pvr
+r0
+
+CCpResource build/Debug/PuyoClone.app/Contents/Resources/block_red.pvr block_red.pvr
+r0
+
+CCpResource build/Debug/PuyoClone.app/Contents/Resources/block_yellow.pvr block_yellow.pvr
+r0
+
+CCpResource build/Debug/PuyoClone.app/Contents/Resources/fps_images.png fps_images.png
+r0
+
+CCpResource build/Debug/PuyoClone.app/Contents/Resources/gameover.png gameover.png
+r0
+
+CProcessInfoPlistFile "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app/Contents/Info.plist" Info.plist
+r0
+
+CTouch "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug/PuyoClone.app"
+r0
+

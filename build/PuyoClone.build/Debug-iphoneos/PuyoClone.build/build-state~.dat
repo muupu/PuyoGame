@@ -1,0 +1,2315 @@
+TPuyoClone
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004BA82B910000000000000110
+t1269312401
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B9F260C00000000002DE3E0
+t1268721164
+s3007456
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004BA03AC10000000000002384
+t1268792001
+s9092
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004B9F263C000000000003ABD0
+t1268721212
+s240592
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004B9F289E000000000000094F
+t1268721822
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004B9F289E0000000000000A61
+t1268721822
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004B9F289E0000000000009369
+t1268721822
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004B9F289E0000000000002A42
+t1268721822
+s10818
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004B9F28AB000000000003C2B0
+t1268721835
+s246448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B9F28EE000000000000007D
+t1268721902
+s125
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B9F2A1500000000002215A0
+t1268722197
+s2233760
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/alloca.h
+c000000004B9F135D0000000000000588
+t1268716381
+s1416
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/assert.h
+c000000004B9F135D0000000000000DCB
+t1268716381
+s3531
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/ctype.h
+c000000004B9F135D0000000000002C18
+t1268716381
+s11288
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/errno.h
+c000000004B9F135D00000000000003EB
+t1268716381
+s1003
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/inttypes.h
+c000000004B9F135D00000000000027D1
+t1268716381
+s10193
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/math.h
+c000000004B9F12D800000000000004F1
+t1268716248
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/memory.h
+c000000004B9F135D0000000000000765
+t1268716381
+s1893
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/objc/objc.h
+c000000004B9F1A650000000000000A2F
+t1268718181
+s2607
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/stdio.h
+c000000004B9F135D0000000000004174
+t1268716381
+s16756
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/stdlib.h
+c000000004B9F135D0000000000002DF5
+t1268716381
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/string.h
+c000000004B9F135D0000000000001731
+t1268716381
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/sys/time.h
+c000000004B9F1BE20000000000001E17
+t1268718562
+s7703
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/sys/types.h
+c000000004B9F1BE40000000000002905
+t1268718564
+s10501
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/float.h
+c000000004B734D600000000000001538
+t1265847648
+s5432
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdarg.h
+c000000004B734D6000000000000010DD
+t1265847648
+s4317
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/GameLogicLayer.h
+c000000004A20D7360000000000000313
+t1243666230
+s787
+i"Puyo.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/GameLogicLayer.m
+c000000004A471B080000000000003CAA
+t1246173960
+s15530
+i"GameLogicLayer.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/GameScene.h
+c000000004A1EF27600000000000000BF
+t1243542134
+s191
+i"cocos2d.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/GameScene.m
+c000000004A22EC3A0000000000000241
+t1243802682
+s577
+i"GameScene.h"
+i"GameLogicLayer.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/Puyo.h
+c000000004A41378000000000000002A8
+t1245788032
+s680
+i"cocos2d.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/Puyo.m
+c000000004A1EF2C60000000000000608
+t1243542214
+s1544
+i"Puyo.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/PuyoCloneAppDelegate.h
+c000000004A1A43580000000000000130
+t1243235160
+s304
+i<UIKit/UIKit.h>
+i"cocos2d.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/PuyoCloneAppDelegate.m
+c000000004A4137DC00000000000008C5
+t1245788124
+s2245
+i"PuyoCloneAppDelegate.h"
+i"GameScene.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Default.png
+c0000000049B78FE4000000000000116B
+t1236766692
+s4459
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/PuyoClone_Prefix.pch
+c000000004A03F96400000000000000BB
+t1241774436
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/chipmunk.c
+c0000000049E7981600000000000007DD
+t1239914518
+s2013
+i"stdlib.h"
+i"chipmunk.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/chipmunk.h
+c0000000049E79816000000000000096F
+t1239914518
+s2415
+i"cpVect.h"
+i"cpBB.h"
+i"cpBody.h"
+i"cpArray.h"
+i"cpHashSet.h"
+i"cpSpaceHash.h"
+i"cpShape.h"
+i"cpPolyShape.h"
+i"cpArbiter.h"
+i"cpCollision.h"
+i"cpJoint.h"
+i"cpSpace.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpArbiter.c
+c0000000049E798160000000000001ACC
+t1239914518
+s6860
+i<stdlib.h>
+i<math.h>
+i"chipmunk.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpArbiter.h
+c0000000049E798160000000000000CA5
+t1239914518
+s3237
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpArray.c
+c0000000049E7981600000000000009C1
+t1239914518
+s2497
+i<stdlib.h>
+i<string.h>
+i"chipmunk.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpArray.h
+c0000000049E7981600000000000006E3
+t1239914518
+s1763
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpBB.c
+c0000000049E79816000000000000067E
+t1239914518
+s1662
+i<math.h>
+i"chipmunk.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpBB.h
+c0000000049E798160000000000000766
+t1239914518
+s1894
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpBody.c
+c0000000049E79816000000000000116B
+t1239914518
+s4459
+i<stdlib.h>
+i<math.h>
+i<float.h>
+i"chipmunk.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpBody.h
+c0000000049E798160000000000001266
+t1239914518
+s4710
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpCollision.c
+c0000000049E798160000000000002B86
+t1239914518
+s11142
+i<stdlib.h>
+i<math.h>
+i<stdio.h>
+i<assert.h>
+i"chipmunk.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpCollision.h
+c0000000049E7981600000000000004DF
+t1239914518
+s1247
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpHashSet.c
+c0000000049E7981600000000000013B4
+t1239914518
+s5044
+i<stdlib.h>
+i<assert.h>
+i"chipmunk.h"
+i"prime.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpHashSet.h
+c0000000049E798160000000000000D2D
+t1239914518
+s3373
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpJoint.c
+c0000000049E798160000000000003713
+t1239914518
+s14099
+i<stdlib.h>
+i<math.h>
+i"chipmunk.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpJoint.h
+c0000000049E798160000000000000D33
+t1239914518
+s3379
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpPolyShape.c
+c0000000049E798160000000000000E94
+t1239914518
+s3732
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+i"chipmunk.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpPolyShape.h
+c0000000049E798160000000000000B0E
+t1239914518
+s2830
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpShape.c
+c0000000049E798160000000000001536
+t1239914518
+s5430
+i<stdlib.h>
+i<assert.h>
+i<stdio.h>
+i"chipmunk.h"
+i"math.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpShape.h
+c0000000049E798160000000000001185
+t1239914518
+s4485
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpSpace.c
+c0000000049E7981600000000000037C4
+t1239914518
+s14276
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+i<assert.h>
+i"chipmunk.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpSpace.h
+c0000000049E7981600000000000011E4
+t1239914518
+s4580
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpSpaceHash.c
+c0000000049E798160000000000002811
+t1239914518
+s10257
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+i<assert.h>
+i"chipmunk.h"
+i"prime.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpSpaceHash.h
+c0000000049E798160000000000000FBC
+t1239914518
+s4028
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpVect.c
+c0000000049E79816000000000000066E
+t1239914518
+s1646
+i"stdio.h"
+i"math.h"
+i"chipmunk.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpVect.h
+c0000000049E798160000000000000B0C
+t1239914518
+s2828
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/prime.h
+c0000000049E798160000000000000828
+t1239914518
+s2088
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/CDataScanner.h
+c0000000049E798160000000000000946
+t1239914518
+s2374
+i<Foundation/Foundation.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/CDataScanner.m
+c0000000049E79816000000000000165F
+t1239914518
+s5727
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/CDataScanner_Extensions.h
+c0000000049E798160000000000000598
+t1239914518
+s1432
+i"CDataScanner.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/CDataScanner_Extensions.m
+c0000000049E7981600000000000009D4
+t1239914518
+s2516
+i"CDataScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/NSCharacterSet_Extensions.h
+c0000000049E798160000000000000565
+t1239914518
+s1381
+i<Foundation/Foundation.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+c0000000049E79816000000000000071C
+t1239914518
+s1820
+i"NSCharacterSet_Extensions.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/NSDictionary_JSONExtensions.h
+c0000000049E798160000000000000583
+t1239914518
+s1411
+i<Foundation/Foundation.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+c0000000049E7981600000000000005FE
+t1239914518
+s1534
+i"NSDictionary_JSONExtensions.h"
+i"CJSONDeserializer.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/NSScanner_Extensions.h
+c0000000049E798160000000000000641
+t1239914518
+s1601
+i<Foundation/Foundation.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/NSScanner_Extensions.m
+c0000000049E798160000000000000D50
+t1239914518
+s3408
+i"NSScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/JSON/CJSONDeserializer.h
+c0000000049E798160000000000000766
+t1239914518
+s1894
+i<Foundation/Foundation.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/JSON/CJSONDeserializer.m
+c0000000049E7981600000000000009C2
+t1239914518
+s2498
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/JSON/CJSONScanner.h
+c0000000049E798160000000000000700
+t1239914518
+s1792
+i"CDataScanner.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/JSON/CJSONScanner.m
+c0000000049E7981600000000000038D4
+t1239914518
+s14548
+i"CJSONScanner.h"
+i"NSCharacterSet_Extensions.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/JSON/CJSONSerializer.h
+c0000000049E79816000000000000066A
+t1239914518
+s1642
+i<Foundation/Foundation.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/JSON/CJSONSerializer.m
+c0000000049E7981600000000000016F0
+t1239914518
+s5872
+i"CJSONSerializer.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/COPYING
+c0000000049E7981600000000000005BA
+t1239914518
+s1466
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/README
+c0000000049E798160000000000000795
+t1239914518
+s1941
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/asm_arm.h
+c0000000049E798160000000000001969
+t1239914518
+s6505
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/backends.h
+c0000000049E7981600000000000011E3
+t1239914518
+s4579
+i"codec_internal.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/bitwise.c
+c0000000049E798160000000000001BEB
+t1239914518
+s7147
+i<string.h>
+i<stdlib.h>
+i"ogg.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/block.c
+c0000000049E79816000000000000332D
+t1239914518
+s13101
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"window.h"
+i"registry.h"
+i"misc.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/block.h
+c0000000049E798160000000000000455
+t1239914518
+s1109
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/codebook.c
+c0000000049E798160000000000002668
+t1239914518
+s9832
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codebook.h"
+i"misc.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/codebook.h
+c0000000049E798160000000000001029
+t1239914518
+s4137
+i"ogg.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/codec_internal.h
+c0000000049E798160000000000000C0C
+t1239914518
+s3084
+i"codebook.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/config_types.h
+c0000000049E798160000000000000480
+t1239914518
+s1152
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/floor0.c
+c0000000049E798160000000000003091
+t1239914518
+s12433
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"registry.h"
+i"codebook.h"
+i"misc.h"
+i"block.h"
+i"lsp_lookup.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/floor1.c
+c0000000049E79816000000000000377E
+t1239914518
+s14206
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"registry.h"
+i"codebook.h"
+i"misc.h"
+i"block.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/framing.c
+c0000000049E79816000000000000754A
+t1239914518
+s30026
+i<stdlib.h>
+i<string.h>
+i"ogg.h"
+i"misc.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/info.c
+c0000000049E798160000000000002BAB
+t1239914518
+s11179
+i<stdlib.h>
+i<string.h>
+i<ctype.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"codebook.h"
+i"registry.h"
+i"window.h"
+i"misc.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/ivorbiscodec.h
+c0000000049E798160000000000001A56
+t1239914518
+s6742
+i"ogg.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/ivorbisfile.h
+c0000000049E798160000000000001294
+t1239914518
+s4756
+i<stdio.h>
+i"ivorbiscodec.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/lsp_lookup.h
+c0000000049E79816000000000000137F
+t1239914518
+s4991
+i"os_types.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/mapping0.c
+c0000000049E798160000000000002467
+t1239914518
+s9319
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<math.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"mdct.h"
+i"codec_internal.h"
+i"codebook.h"
+i"window.h"
+i"registry.h"
+i"misc.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/mdct.c
+c0000000049E798160000000000003635
+t1239914518
+s13877
+i"ivorbiscodec.h"
+i"codebook.h"
+i"misc.h"
+i"mdct.h"
+i"mdct_lookup.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/mdct.h
+c0000000049E7981600000000000005BE
+t1239914518
+s1470
+i"ivorbiscodec.h"
+i"misc.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/mdct_lookup.h
+c0000000049E7981600000000000080D1
+t1239914518
+s32977
+i"os_types.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/misc.h
+c0000000049E7981600000000000016D3
+t1239914518
+s5843
+i"ivorbiscodec.h"
+i"os.h"
+i"asm_arm.h"
+i<stdlib.h>
+i<sys/types.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/ogg.h
+c0000000049E798160000000000001A33
+t1239914518
+s6707
+i"os_types.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/os.h
+c0000000049E7981600000000000006DF
+t1239914518
+s1759
+i<math.h>
+i"os_types.h"
+i<malloc.h>
+i<alloca.h>
+i<memory.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/os_types.h
+c0000000049E798160000000000000A04
+t1239914518
+s2564
+i<_G_config.h>
+i<sys/types.h>
+i<sys/types.h>
+i<inttypes.h>
+i<sys/types.h>
+i"config_types.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/registry.c
+c0000000049E7981600000000000006E9
+t1239914518
+s1769
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"registry.h"
+i"misc.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/registry.h
+c0000000049E79816000000000000059B
+t1239914518
+s1435
+i"backends.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/res012.c
+c0000000049E798160000000000002435
+t1239914518
+s9269
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"registry.h"
+i"codebook.h"
+i"misc.h"
+i"os.h"
+i"block.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/sharedbook.c
+c0000000049E798160000000000003141
+t1239914518
+s12609
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i"ogg.h"
+i"misc.h"
+i"ivorbiscodec.h"
+i"codebook.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/synthesis.c
+c0000000049E798160000000000000D8C
+t1239914518
+s3468
+i<stdio.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"registry.h"
+i"misc.h"
+i"block.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/vorbisfile.c
+c0000000049E79816000000000000B4E2
+t1239914518
+s46306
+i<stdlib.h>
+i<stdio.h>
+i<errno.h>
+i<string.h>
+i<math.h>
+i"ivorbiscodec.h"
+i"ivorbisfile.h"
+i"misc.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/window.c
+c0000000049E798160000000000000847
+t1239914518
+s2119
+i<stdlib.h>
+i<math.h>
+i"misc.h"
+i"window.h"
+i"window_lookup.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/window.h
+c0000000049E79816000000000000048D
+t1239914518
+s1165
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/window_lookup.h
+c0000000049E79816000000000001F2F7
+t1239914518
+s127735
+i"os_types.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Action.h
+c000000004A07BFE20000000000000B68
+t1242021858
+s2920
+i<UIKit/UIKit.h>
+i<sys/time.h>
+i"ccTypes.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Action.m
+c000000004A07BFE20000000000000C96
+t1242021858
+s3222
+i"Action.h"
+i"CocosNode.h"
+i"ccMacros.h"
+i"IntervalAction.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/AtlasNode.h
+c0000000049E79816000000000000075C
+t1239914518
+s1884
+i"TextureAtlas.h"
+i"CocosNode.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/AtlasNode.m
+c0000000049E798160000000000000988
+t1239914518
+s2440
+i"AtlasNode.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/AtlasSprite.h
+c0000000049E798160000000000001256
+t1239914518
+s4694
+i"CocosNode.h"
+i"TextureAtlas.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/AtlasSprite.m
+c0000000049E911F80000000000002784
+t1240011256
+s10116
+i"AtlasSpriteManager.h"
+i"AtlasSprite.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/AtlasSpriteManager.h
+c0000000049E798160000000000000A10
+t1239914518
+s2576
+i"CocosNode.h"
+i"TextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/AtlasSpriteManager.m
+c0000000049E798160000000000001BD1
+t1239914518
+s7121
+i"AtlasSprite.h"
+i"AtlasSpriteManager.h"
+i"Grid.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Camera.h
+c0000000049E79816000000000000068C
+t1239914518
+s1676
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Camera.m
+c0000000049E798160000000000000890
+t1239914518
+s2192
+i"Director.h"
+i"Camera.h"
+i"ccMacros.h"
+i"Support/glu.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/CameraAction.h
+c0000000049E798160000000000000658
+t1239914518
+s1624
+i"IntervalAction.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/CameraAction.m
+c0000000049E798160000000000000C47
+t1239914518
+s3143
+i"CameraAction.h"
+i"CocosNode.h"
+i"Camera.h"
+i"ccMacros.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/CocosNode.h
+c0000000049E798160000000000003A78
+t1239914518
+s14968
+i<OpenGLES/ES1/gl.h>
+i"Action.h"
+i"cctypes.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/CocosNode.m
+c0000000049ECF91E0000000000004EBA
+t1240267038
+s20154
+i"CocosNode.h"
+i"Camera.h"
+i"Grid.h"
+i"Scheduler.h"
+i"ccMacros.h"
+i"Director.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Director.h
+c0000000049E798160000000000001D06
+t1239914518
+s7430
+i"Support/EAGLView.h"
+i"Scene.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Director.m
+c000000004A19BAB00000000000005284
+t1243200176
+s21124
+i"Director.h"
+i"Camera.h"
+i"Scheduler.h"
+i"LabelAtlas.h"
+i"ccMacros.h"
+i"ccExceptions.h"
+i"Support/glu.h"
+i"Support/OpenGL_Internal.h"
+i"Support/Texture2D.h"
+i"Support/CGPointExtension.h"
+i"Layer.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/EaseAction.h
+c0000000049E7981600000000000007A2
+t1239914518
+s1954
+i"IntervalAction.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/EaseAction.m
+c0000000049E798160000000000000EFD
+t1239914518
+s3837
+i"EaseAction.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Grabber.h
+c0000000049E7981600000000000002C0
+t1239914518
+s704
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<UIKit/UIKit.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Grabber.m
+c0000000049E798160000000000000686
+t1239914518
+s1670
+i"Grabber.h"
+i"ccMacros.h"
+i"Support/Texture2D.h"
+i"Support/OpenGL_Internal.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Grid.h
+c0000000049E798160000000000000A35
+t1239914518
+s2613
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+i"Camera.h"
+i"ccTypes.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Grid.m
+c0000000049E7981600000000000028C0
+t1239914518
+s10432
+i"ccMacros.h"
+i"Grid.h"
+i"Texture2D.h"
+i"Director.h"
+i"Grabber.h"
+i"Support/glu.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Grid3DAction.h
+c0000000049E798160000000000001504
+t1239914518
+s5380
+i"GridAction.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Grid3DAction.m
+c0000000049E798160000000000002B6B
+t1239914518
+s11115
+i"Grid3DAction.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/GridAction.h
+c0000000049E7981600000000000010BD
+t1239914518
+s4285
+i<UIKit/UIKit.h>
+i"IntervalAction.h"
+i"InstantAction.h"
+i"Grid.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/GridAction.m
+c0000000049E798160000000000001796
+t1239914518
+s6038
+i"GridAction.h"
+i"Director.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/InstantAction.h
+c000000004A07BFE20000000000000810
+t1242021858
+s2064
+i<UIKit/UIKit.h>
+i"Action.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/InstantAction.m
+c000000004A07BFE20000000000000DA1
+t1242021858
+s3489
+i"InstantAction.h"
+i"CocosNode.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/IntervalAction.h
+c000000004A07BFE20000000000002B61
+t1242021858
+s11105
+i"CocosNode.h"
+i"Action.h"
+i<sys/time.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/IntervalAction.m
+c000000004A07BFE2000000000000543E
+t1242021858
+s21566
+i"IntervalAction.h"
+i"Sprite.h"
+i"CocosNode.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Label.h
+c0000000049E798160000000000000690
+t1239914518
+s1680
+i<UIKit/UIKit.h>
+i"Support/Texture2D.h"
+i"TextureNode.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Label.m
+c0000000049E798160000000000000930
+t1239914518
+s2352
+i"Label.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/LabelAtlas.h
+c0000000049E79816000000000000063B
+t1239914518
+s1595
+i"AtlasNode.h"
+i"TextureAtlas.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/LabelAtlas.m
+c0000000049E798160000000000000CA0
+t1239914518
+s3232
+i"LabelAtlas.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Layer.h
+c0000000049E798160000000000000DFE
+t1239914518
+s3582
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Layer.m
+c0000000049E7981600000000000017A8
+t1239914518
+s6056
+i<OpenGLES/ES1/gl.h>
+i<stdarg.h>
+i"Layer.h"
+i"Director.h"
+i"ccMacros.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Menu.h
+c0000000049E7981600000000000006AB
+t1239914518
+s1707
+i<UIKit/UIKit.h>
+i"MenuItem.h"
+i"Layer.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Menu.m
+c0000000049E911F8000000000000272E
+t1240011256
+s10030
+i"Menu.h"
+i"Director.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/MenuItem.h
+c0000000049E798160000000000001615
+t1239914518
+s5653
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/MenuItem.m
+c0000000049E798160000000000003148
+t1239914518
+s12616
+i"MenuItem.h"
+i"Label.h"
+i"LabelAtlas.h"
+i"IntervalAction.h"
+i"Sprite.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Particle.h
+c0000000049E798160000000000001481
+t1239914518
+s5249
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+i"ccTypes.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Particle.m
+c0000000049E798160000000000001F45
+t1239914518
+s8005
+i<OpenGLES/ES1/gl.h>
+i"Particle.h"
+i"Primitives.h"
+i"TextureMgr.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/ParticleSystems.h
+c0000000049E7981600000000000004F0
+t1239914518
+s1264
+i"Particle.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/ParticleSystems.m
+c0000000049E798160000000000003879
+t1239914518
+s14457
+i"ParticleSystems.h"
+i"TextureMgr.h"
+i"Director.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Primitives.h
+c0000000049E798160000000000000964
+t1239914518
+s2404
+i<CoreGraphics/CGGeometry.h>
+i<objc/objc.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Primitives.m
+c0000000049E798160000000000000F17
+t1239914518
+s3863
+i<OpenGLES/ES1/gl.h>
+i<math.h>
+i<stdlib.h>
+i<string.h>
+i"Primitives.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Scene.h
+c0000000049E798160000000000000360
+t1239914518
+s864
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Scene.m
+c0000000049E79816000000000000029A
+t1239914518
+s666
+i"Scene.h"
+i"Director.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Scheduler.h
+c0000000049E7981600000000000006EC
+t1239914518
+s1772
+i<UIKit/UIKit.h>
+i"ccTypes.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Scheduler.m
+c0000000049ECF91E00000000000011E4
+t1240267038
+s4580
+i"Scheduler.h"
+i"ccMacros.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Sprite.h
+c0000000049E798160000000000001201
+t1239914518
+s4609
+i<UIKit/UIKit.h>
+i"Support/Texture2D.h"
+i"TextureNode.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Sprite.m
+c0000000049E798160000000000001946
+t1239914518
+s6470
+i"TextureMgr.h"
+i"Sprite.h"
+i"ccMacros.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/CGPointExtension.h
+c000000004A1108AC00000000000013CB
+t1242630316
+s5067
+i<CoreGraphics/CGGeometry.h>
+i<math.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/CGPointExtension.m
+c0000000049E798160000000000000628
+t1239914518
+s1576
+i"stdio.h"
+i"math.h"
+i"CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/EAGLView.h
+c0000000049E798160000000000001628
+t1239914518
+s5672
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/EAGLView.m
+c0000000049E798160000000000002675
+t1239914518
+s9845
+i<QuartzCore/QuartzCore.h>
+i"EAGLView.h"
+i"OpenGL_Internal.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/FileUtils.h
+c0000000049E798160000000000000259
+t1239914518
+s601
+i<Foundation/Foundation.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/FileUtils.m
+c0000000049E7981600000000000003BF
+t1239914518
+s959
+i"FileUtils.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/OpenGL_Internal.h
+c0000000049E79816000000000000111D
+t1239914518
+s4381
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/PVRTexture.h
+c0000000049E798160000000000000C67
+t1239914518
+s3175
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/PVRTexture.m
+c0000000049E798160000000000001D75
+t1239914518
+s7541
+i"PVRTexture.h"
+i"Texture2D.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/TGAlib.h
+c0000000049E798160000000000000444
+t1239914518
+s1092
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/TGAlib.m
+c0000000049E798160000000000001AA0
+t1239914518
+s6816
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"TGAlib.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/Texture2D.h
+c000000004A0752A400000000000023E9
+t1241993892
+s9193
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/Texture2D.m
+c000000004A0752A40000000000004138
+t1241993892
+s16696
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+i"PVRTexture.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/UIColor-OpenGL.h
+c0000000049E7981600000000000003E8
+t1239914518
+s1000
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/UIColor-OpenGL.m
+c0000000049E798160000000000000792
+t1239914518
+s1938
+i"UIColor-OpenGL.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/glu.c
+c0000000049E7981600000000000009A0
+t1239914518
+s2464
+i<OpenGLES/ES1/gl.h>
+i<math.h>
+i"OpenGL_Internal.h"
+i"glu.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/glu.h
+c0000000049E79816000000000000020E
+t1239914518
+s526
+i<OpenGLES/ES1/gl.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TextureAtlas.h
+c0000000049E7981600000000000011C2
+t1239914518
+s4546
+i"Texture2D.h"
+i"ccTypes.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TextureAtlas.m
+c0000000049E798160000000000002119
+t1239914518
+s8473
+i"TextureAtlas.h"
+i"TextureMgr.h"
+i"ccMacros.h"
+i"Support/Texture2D.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TextureMgr.h
+c0000000049E798160000000000000A83
+t1239914518
+s2691
+i<UIKit/UIKit.h>
+i"Support/Texture2D.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TextureMgr.m
+c0000000049E798160000000000000E31
+t1239914518
+s3633
+i"TextureMgr.h"
+i"Support/FileUtils.h"
+i"Support/Texture2D.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TextureNode.h
+c0000000049E7981600000000000004D2
+t1239914518
+s1234
+i<UIKit/UIKit.h>
+i"Support/Texture2D.h"
+i"CocosNode.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TextureNode.m
+c0000000049E79816000000000000057A
+t1239914518
+s1402
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"TextureMgr.h"
+i"TextureNode.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TileMapAtlas.h
+c0000000049E7981600000000000007B3
+t1239914518
+s1971
+i"TextureAtlas.h"
+i"AtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TileMapAtlas.m
+c0000000049E798160000000000001793
+t1239914518
+s6035
+i"TileMapAtlas.h"
+i"ccMacros.h"
+i"Support/FileUtils.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TiledGridAction.h
+c0000000049E798160000000000001604
+t1239914518
+s5636
+i"GridAction.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TiledGridAction.m
+c0000000049E79816000000000000377D
+t1239914518
+s14205
+i"TiledGridAction.h"
+i"Director.h"
+i"ccMacros.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Transition.h
+c0000000049E798160000000000001AA9
+t1239914518
+s6825
+i"Scene.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Transition.m
+c0000000049E798160000000000004A45
+t1239914518
+s19013
+i"Transition.h"
+i"CocosNode.h"
+i"Director.h"
+i"IntervalAction.h"
+i"InstantAction.h"
+i"CameraAction.h"
+i"Layer.h"
+i"Camera.h"
+i"TiledGridAction.h"
+i"EaseAction.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/ccExceptions.h
+c0000000049E798160000000000000398
+t1239914518
+s920
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/ccMacros.h
+c0000000049E7981600000000000004C5
+t1239914518
+s1221
+i<math.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/ccTypes.h
+c0000000049E79816000000000000068D
+t1239914518
+s1677
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/cocos2d.h
+c000000004A11145800000000000006EF
+t1242633304
+s1775
+i"Action.h"
+i"Camera.h"
+i"CameraAction.h"
+i"CocosNode.h"
+i"Director.h"
+i"InstantAction.h"
+i"IntervalAction.h"
+i"EaseAction.h"
+i"Label.h"
+i"Layer.h"
+i"Menu.h"
+i"MenuItem.h"
+i"Particle.h"
+i"ParticleSystems.h"
+i"Primitives.h"
+i"Scene.h"
+i"Scheduler.h"
+i"Sprite.h"
+i"TextureMgr.h"
+i"TextureNode.h"
+i"Transition.h"
+i"TextureAtlas.h"
+i"LabelAtlas.h"
+i"TileMapAtlas.h"
+i"AtlasNode.h"
+i"EaseAction.h"
+i"TiledGridAction.h"
+i"Grabber.h"
+i"Grid.h"
+i"Grid3DAction.h"
+i"GridAction.h"
+i"AtlasSprite.h"
+i"AtlasSpriteManager.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/Texture2D.h"
+i"Support/EAGLView.h"
+i"Support/FileUtils.h"
+i"Support/CGPointExtension.h"
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/cocos2d.m
+c000000004A11145800000000000001EC
+t1242633304
+s492
+i<UIKit/UIKit.h>
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/background.png
+c000000004A1E4BC60000000000006FA3
+t1243499462
+s28579
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/block_blue.pvr
+c000000004A0692180000000000000234
+t1241944600
+s564
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/block_green.pvr
+c000000004A06923C0000000000000234
+t1241944636
+s564
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/block_red.pvr
+c000000004A0692260000000000000234
+t1241944614
+s564
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/block_yellow.pvr
+c000000004A0692320000000000000234
+t1241944626
+s564
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app.dSYM
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/COPYING
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/Default.png
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/Info.plist
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/PkgInfo
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/PuyoClone
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/README
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/ResourceRules.plist
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/background.png
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/block_blue.pvr
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/block_green.pvr
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/block_red.pvr
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/block_yellow.pvr
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/fps_images.png
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/gameover.png
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Action.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/AtlasNode.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/AtlasSprite.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/AtlasSpriteManager.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CDataScanner.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CDataScanner_Extensions.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CGPointExtension.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CJSONDeserializer.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CJSONScanner.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CJSONSerializer.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Camera.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CameraAction.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CocosNode.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Director.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/EAGLView.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/EaseAction.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/FileUtils.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/GameLogicLayer.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/GameScene.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Grabber.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Grid.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Grid3DAction.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/GridAction.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/InstantAction.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/IntervalAction.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Label.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/LabelAtlas.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Layer.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Menu.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/MenuItem.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/NSCharacterSet_Extensions.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/NSScanner_Extensions.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/PVRTexture.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Particle.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/ParticleSystems.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Primitives.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Puyo.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/PuyoClone.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/PuyoCloneAppDelegate.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Scene.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Scheduler.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Sprite.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TGAlib.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Texture2D.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TextureAtlas.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TextureMgr.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TextureNode.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TileMapAtlas.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TiledGridAction.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Transition.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/UIColor-OpenGL.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/bitwise.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/block.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/chipmunk.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cocos2d.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/codebook.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpArbiter.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpArray.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpBB.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpBody.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpCollision.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpHashSet.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpJoint.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpPolyShape.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpShape.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpSpace.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpSpaceHash.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpVect.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/floor0.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/floor1.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/framing.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/glu.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/info.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/mapping0.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/mdct.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/registry.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/res012.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/sharedbook.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/synthesis.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/vorbisfile.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/window.o
+t2
+s0
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/fps_images.png
+c000000004A0FF4420000000000002380
+t1242559554
+s9088
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/gameover.png
+c000000004A20C0480000000000001381
+t1243660360
+s4993
+
+N/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/main.m
+c000000004A1FCC44000000000000017C
+t1243597892
+s380
+i<UIKit/UIKit.h>
+
+N/var/folders/1t/1tmYMicfFuaPF7cDekBVr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PuyoClone_Prefix-aadtsacudwlholdumpryzhkmfkds/PuyoClone_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/1t/1tmYMicfFuaPF7cDekBVr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PuyoClone_Prefix-enffqeqzecanacbmtabpquffkqbj/PuyoClone_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004A20BE0E0000000000000379
+t1243659790
+s889
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329750249#329750249#0(264"[BEROR]Code Sign error: The identity 'iPhone Developer: ' doesn't match any valid certificate/private key pair in the default keychain[BWARN]warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.2(4@127"Code Sign error: The identity 'iPhone Developer: ' doesn't match any valid certificate/private key pair in the default keychain329750249#4294967295#0#0(1@0"0(22@121"warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.329750249#4294967295#0#0(1@0"0(0#1#0"4386904#0"0#
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Action.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Action.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/AtlasNode.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/AtlasNode.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/AtlasSprite.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/AtlasSprite.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/AtlasSpriteManager.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/AtlasSpriteManager.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CDataScanner.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/CDataScanner.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CDataScanner_Extensions.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/CDataScanner_Extensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CGPointExtension.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/CGPointExtension.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CJSONDeserializer.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/JSON/CJSONDeserializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CJSONScanner.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/JSON/CJSONScanner.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CJSONSerializer.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/JSON/CJSONSerializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Camera.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Camera.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CameraAction.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/CameraAction.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/CocosNode.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/CocosNode.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Director.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Director.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/EAGLView.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/EAGLView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/EaseAction.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/EaseAction.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/FileUtils.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/FileUtils.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/GameLogicLayer.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/GameLogicLayer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/GameScene.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/GameScene.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Grabber.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Grabber.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Grid.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Grid.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Grid3DAction.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Grid3DAction.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/GridAction.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/GridAction.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/InstantAction.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/InstantAction.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/IntervalAction.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/IntervalAction.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Label.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Label.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/LabelAtlas.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/LabelAtlas.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Layer.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Layer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Menu.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Menu.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/MenuItem.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/MenuItem.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/NSCharacterSet_Extensions.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/NSCharacterSet_Extensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/NSDictionary_JSONExtensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/NSScanner_Extensions.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/TouchJSON/Extensions/NSScanner_Extensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/PVRTexture.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/PVRTexture.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Particle.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Particle.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/ParticleSystems.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/ParticleSystems.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Primitives.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Primitives.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Puyo.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/Puyo.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/PuyoCloneAppDelegate.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Classes/PuyoCloneAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Scene.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Scene.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Scheduler.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Scheduler.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Sprite.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Sprite.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TGAlib.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/TGAlib.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Texture2D.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/Texture2D.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TextureAtlas.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TextureAtlas.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TextureMgr.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TextureMgr.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TextureNode.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TextureNode.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TileMapAtlas.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TileMapAtlas.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/TiledGridAction.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/TiledGridAction.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/Transition.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Transition.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/UIColor-OpenGL.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/UIColor-OpenGL.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/bitwise.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/bitwise.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/block.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/block.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/chipmunk.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/chipmunk.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cocos2d.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/cocos2d.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/codebook.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/codebook.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpArbiter.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpArbiter.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpArray.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpArray.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpBB.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpBB.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpBody.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpBody.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpCollision.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpCollision.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpHashSet.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpHashSet.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpJoint.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpJoint.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpPolyShape.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpPolyShape.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpShape.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpShape.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpSpace.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpSpace.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpSpaceHash.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpSpaceHash.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/cpVect.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Chipmunk/cpVect.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/floor0.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/floor0.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/floor1.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/floor1.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/framing.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/framing.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/glu.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/cocos2d/Support/glu.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/info.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/info.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/main.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/mapping0.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/mapping0.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/mdct.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/mdct.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/registry.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/registry.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/res012.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/res012.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/sharedbook.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/sharedbook.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/synthesis.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/synthesis.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/vorbisfile.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/vorbisfile.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/PuyoClone.build/Debug-iphoneos/PuyoClone.build/Objects-normal/armv6/window.o "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/Support/Tremor/window.c" normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCopyPNGFile "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/background.png" background.png
+r0
+
+CCopyPNGFile "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/fps_images.png" fps_images.png
+r0
+
+CCopyPNGFile "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/gameover.png" gameover.png
+r0
+
+CCpResource build/Debug-iphoneos/PuyoClone.app/COPYING Support/Tremor/COPYING
+r0
+
+CCpResource build/Debug-iphoneos/PuyoClone.app/README Support/Tremor/README
+r0
+
+CCpResource build/Debug-iphoneos/PuyoClone.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/PuyoClone.app/block_blue.pvr block_blue.pvr
+r0
+
+CCpResource build/Debug-iphoneos/PuyoClone.app/block_green.pvr block_green.pvr
+r0
+
+CCpResource build/Debug-iphoneos/PuyoClone.app/block_red.pvr block_red.pvr
+r0
+
+CCpResource build/Debug-iphoneos/PuyoClone.app/block_yellow.pvr block_yellow.pvr
+r0
+
+CGenerateDSYMFile "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app.dSYM" "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/PuyoClone"
+r0
+
+CLd "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/PuyoClone" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/1t/1tmYMicfFuaPF7cDekBVr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PuyoClone_Prefix-aadtsacudwlholdumpryzhkmfkds/PuyoClone_Prefix.pch.gch PuyoClone_Prefix.pch normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/1t/1tmYMicfFuaPF7cDekBVr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PuyoClone_Prefix-enffqeqzecanacbmtabpquffkqbj/PuyoClone_Prefix.pch.gch PuyoClone_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/daye/Desktop/iPhone+Game/19862 bonus chapter - Jamie Gotch - PJ Cabrera/PuyoClone/build/Debug-iphoneos/PuyoClone.app"
+r0
+
